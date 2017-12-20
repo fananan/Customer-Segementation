@@ -5,5 +5,5 @@ Data Source:
 https://archive.ics.uci.edu/ml/datasets/Online+Retail
 
 Interactive figures link: 
-https://plot.ly/create/?fid=Fan_2017:5 
+https://plot.ly/create/?fid=Fan_2017:5 , 
 https://plot.ly/create/?fid=Fan_2017:7
